@@ -1,0 +1,4 @@
+*.pyc
+fabfile.py
+my_django_world/local_settings.py
+my_django_world/media/
